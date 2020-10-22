@@ -1,8 +1,8 @@
-local mapscale = GetModConfigData("Minimap Size")
-local position_str = GetModConfigData("Position")
-local margin_size_x = GetModConfigData("Horizontal Margin")
-local margin_size_y = GetModConfigData("Vertical Margin")
-local ups = GetModConfigData("Updates Per Second")
+local mapscale = GetModConfigData("Tamanho do minimapa")
+local position_str = GetModConfigData("Posição")
+local margin_size_x = GetModConfigData("Margem Horizontal")
+local margin_size_y = GetModConfigData("Margem Vertical")
+local ups = GetModConfigData("Atualizações por segundo")
 
 local dir_vert = 0
 local dir_horiz = 0
